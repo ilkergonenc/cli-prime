@@ -2,7 +2,7 @@ const bender = {
 
   watch:  require('./flow/do/watcher'),
   stream: require('./flow/one'),
-  def: require('./flow/def'),
+  def:    require('./flow/def'),
   
   fresh:  require('./tree/in/.fresh'),
   tree:   require('./tree/_.tree'),
