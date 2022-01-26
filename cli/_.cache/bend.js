@@ -23,18 +23,6 @@ module.exports = bend = {
         replace: '__command_name_',
         dest: './cli/cmd/',
       },
-      hug: {
-        name: 'hug',
-        flow: {
-          type: 'one',
-          stream: true,
-          leaf: true,
-          depth: 'raw.hug',
-        },
-        src: './raw/hug/raw.hug.pug',
-        replace: 'raw',
-        dest: './@uiKit/ui',
-      },
     },
   },
 }
