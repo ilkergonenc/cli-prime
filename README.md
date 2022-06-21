@@ -7,3 +7,5 @@ Primary CLI consepts for a better workspace
 - raw template generator
 - filesystem operations
 - data manipulations
+
+
